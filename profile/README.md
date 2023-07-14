@@ -1,7 +1,7 @@
 # $$\color{orange}\boxed{\color{#4CA64C}\mathtt{Fanto \space Documentations}}$$
 
 <p align="center">
-  <img src="images/logo.png" width="300">
+  <img src="https://github.com/fanto-docs/.github/blob/main/profile/images/logo.png?raw=true" width="300">
 
   [![Instagram](https://img.shields.io/badge/fanto_docs-%23CA4B9B.svg?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/fanto_docs/)
   [![Github-sponsors](https://img.shields.io/badge/sponsor_f4nt0-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/F4NT0)
@@ -30,7 +30,13 @@ pie title Repository Language Distribution
 
 <table>
   <tr>
-    <td><img src="images/first.png"></td>
-    <td><img src="images/second.png"></td>
+    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/first.png?raw=true"></td>
+    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/second.png?raw=true"></td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+   <img src="https://github.com/fanto-docs/.github/blob/main/profile/images/octocat.png?raw=true" width="100">
+</p>
