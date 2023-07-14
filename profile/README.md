@@ -1,11 +1,12 @@
 # $$\color{orange}\boxed{\color{#4CA64C}\mathtt{Fanto \space Documentations}}$$
 
 <p align="center">
-  <img src="images/logo.png">
+  <img src="images/logo.png" width="300">
+
+  [![Instagram](https://img.shields.io/badge/fanto_docs-%23CA4B9B.svg?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/fanto_docs/)
+  [![Github-sponsors](https://img.shields.io/badge/sponsor_f4nt0-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/F4NT0)
 </p>
 
-[![Instagram](https://img.shields.io/badge/fanto_docs-%23CA4B9B.svg?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/fanto_docs/)
-[![Github-sponsors](https://img.shields.io/badge/sponsor_f4nt0-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/F4NT0)
 ---
 
 Bem vindo a comunidade da página $\sf \color{lightgreen}Fanto \space Documentations$ do Instagram! 
