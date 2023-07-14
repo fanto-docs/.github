@@ -1,17 +1,26 @@
-# $$\color{orange}\boxed{\color{#4CA64C}\mathtt{Fanto \space Documentations}}$$
-
 <p align="center">
-  <img src="https://github.com/fanto-docs/.github/blob/main/profile/images/logo.png?raw=true" width="300">
-
-  [![Instagram](https://img.shields.io/badge/fanto_docs-%23CA4B9B.svg?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/fanto_docs/)
-  [![Github-sponsors](https://img.shields.io/badge/sponsor_f4nt0-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/F4NT0)
+  <img src="https://github.com/fanto-docs/.github/blob/main/profile/images/Fanto-Docs.gif" width="600">
 </p>
+
+<table align="center">
+  <tr>
+    <td><a href="https://www.instagram.com/fanto_docs/"><img src="https://img.shields.io/badge/fanto_docs-%23CA4B9B.svg?style=for-the-badge&logo=Instagram&logoColor=pink"></a></td>
+    <td><a href="https://github.com/sponsors/F4NT0"><img src="https://img.shields.io/badge/sponsor_f4nt0-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></td>
+  </tr>
+</table>
 
 ---
 
-Bem vindo a comunidade da página $\sf \color{lightgreen}Fanto \space Documentations$ do Instagram! 
+Bem vindo a comunidade de projetos desenvolvidos e explicados no Instagram $\color{pink}\sf \@ fanto \\_ docs$. 
 <br><br>
-Todos os projetos desenvolvidos pelo Engenheiro de Software $\sf \color{yellow}Gabriel \space Fanto \space Stundner$ e divulgados se encontram organizados aqui para facilitar encontrar os projetos pelos alunos e colegas de forma mais simples.
+Todos os projetos foram desenvolvidos pelo Engenheiro de Software $\sf \color{yellow}Gabriel \space Fanto \space Stundner$ e se encontram organizados aqui para facilitar encontrar os projetos com mais facilidade pela comunidade.
+<br><br>
+As versões encontradas aqui são as versões apresentadas pelo instagram, os projetos mais atualizados se encontram no perfil oficial do Github.
+
+<p align="center">
+  <a href="https://github.com/F4NT0"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/gif/My-Banner.gif" width="400"></a>
+  <p align="center">Clique na imagem acima para acessar o perfil oficial</p>
+</p>
 
 ---
 
