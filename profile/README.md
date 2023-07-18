@@ -18,7 +18,7 @@ Todos os projetos foram desenvolvidos pelo Engenheiro de Software $\sf \color{ye
 As versões encontradas aqui são as versões apresentadas pelo instagram, os projetos mais atualizados se encontram no perfil oficial do Github.
 
 <p align="center">
-  <a href="https://github.com/F4NT0"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/gif/My-Banner.gif" width="400"></a>
+  <a href="https://github.com/F4NT0"><img src="https://github.com/F4NT0/F4NT0/blob/master/images/gif/My-Banner.gif" width="500"></a>
   <p align="center">Clique na imagem acima para acessar o perfil oficial</p>
 </p>
 
@@ -30,7 +30,7 @@ As versões encontradas aqui são as versões apresentadas pelo instagram, os pr
 pie title Repository Language Distribution
     "C#" : 1
     "Java": 1
-    "Python" : 0
+    "Python" : 1
 ```
 
 ---
@@ -39,8 +39,8 @@ pie title Repository Language Distribution
 
 <table>
   <tr>
-    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/first.png?raw=true"></td>
     <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/second.png?raw=true"></td>
+    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/third.png?raw=true" width="600"></td>
   </tr>
 </table>
 
