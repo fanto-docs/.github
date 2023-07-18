@@ -40,7 +40,7 @@ pie title Repository Language Distribution
 <table>
   <tr>
     <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/second.png?raw=true"></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/third.png?raw=true"></td>
   </tr>
 </table>
 
