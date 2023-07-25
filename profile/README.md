@@ -30,7 +30,8 @@ As versões encontradas aqui são as versões apresentadas pelo instagram, os pr
 pie title Repository Language Distribution
     "C#" : 1
     "Java": 1
-    "Python" : 1
+    "Python": 1
+    "Powershell": 1
 ```
 
 ---
