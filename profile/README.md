@@ -35,17 +35,6 @@ pie title Repository Language Distribution
 
 ---
 
-## $$\boxed{\sf \color{magenta}Últimos \space Publicados}$$
-
-<table>
-  <tr>
-    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/second.png?raw=true"></td>
-    <td><img src="https://github.com/fanto-docs/.github/blob/main/profile/images/third2.png?raw=true"></td>
-  </tr>
-</table>
-
----
-
 <p align="center">
    <img src="https://github.com/fanto-docs/.github/blob/main/profile/images/octocat.png?raw=true" width="100">
 </p>
