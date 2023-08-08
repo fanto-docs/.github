@@ -30,9 +30,16 @@ As versões encontradas aqui são as versões apresentadas pelo instagram, os pr
 pie title Repository Language Distribution
     "C#" : 1
     "Java": 1
-    "Python": 1
+    "Python": 2
     "Powershell": 1
+    "Nix": 1
 ```
+
+---
+
+## $$\boxed{\sf \color{lightgreen}Sistema \space Operacional \space Oficial}$$
+
+
 
 ---
 
